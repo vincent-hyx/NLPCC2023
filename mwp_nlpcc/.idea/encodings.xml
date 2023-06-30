@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/test_out1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/val1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/bert-base-chinese.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/chinese-bert-wwm-ext.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/chinese-roberta-wwm-ext.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/mengzi-bert-base.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/mengzi-bert-base_1e-5.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/mengzi-bert-base_5e-5.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/mengzi-bert-base_7e-5.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs/seq2tree.log" charset="GBK" />
+  </component>
+</project>
